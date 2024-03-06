@@ -1,0 +1,29 @@
+{
+  "name": "hanorm",
+  "version": "1.0.0",
+  "description": "HanORM is a TypeScript library that provides a simple yet powerful Object-Relational Mapping (ORM) framework for MySQL databases",
+  "main": "dist/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ylcnfrht/hanorm"
+  },
+  "dependencies": {
+    "console-log-colors": "^0.4.0",
+    "mysql2": "^3.9.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "@types/mysql": "^2.15.25"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ferhat Yalçın",
+  "license": "MIT"
+}
