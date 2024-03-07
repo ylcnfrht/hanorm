@@ -1,6 +1,6 @@
 {
   "name": "hanorm",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "HanORM is a TypeScript library that provides a simple yet powerful Object-Relational Mapping (ORM) framework for MySQL databases",
   "main": "dist/index.js",
   "directories": {
